@@ -23,5 +23,16 @@ Country: Kenya
 | ---------------------------------- | ------------------ | --------------------------------------------------|
 | User submits valid date and gender | `1999-07-16`, Male | "🎂 You were born on a Friday. Your Akan name is Kofi!" |
 | User leaves date empty             | *No date entered*  | "⚠️ Please enter a valid date."                         |
-| User leaves gender unselected      | *No gender chosen* | "⚠️ Please select a gender."                            |
+| User leaves gender unselected      | *No gender chosen* | "⚠️ Please select a gender."                         |
 | User enters invalid date           | `----`             | "⚠️ Please enter a valid date."                         |
+
+## Technologies Used
+
+1. HTML5 → Page structure and form
+2. CSS3 → Styling and layout
+3. JavaScript (ES6) → Akan name calculation logic
+
+## Contact Information
+Email: [brianwairagi@gmail.com]
+
+GitHub: Brian-Git-spec
