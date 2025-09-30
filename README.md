@@ -16,3 +16,12 @@ Country: Kenya
 1. Clone this repository:  
    ```bash
    git clone https://github.com/Brian-Git-spec/akan.git
+
+## BDD (Behavior-Driven Development)
+
+| **Scenario**                       | **Input**          | **Output**                                        |
+| ---------------------------------- | ------------------ | --------------------------------------------------|
+| User submits valid date and gender | `1999-07-16`, Male | "🎂 You were born on a Friday. Your Akan name is Kofi!" |
+| User leaves date empty             | *No date entered*  | "⚠️ Please enter a valid date."                         |
+| User leaves gender unselected      | *No gender chosen* | "⚠️ Please select a gender."                            |
+| User enters invalid date           | `----`             | "⚠️ Please enter a valid date."                         |
