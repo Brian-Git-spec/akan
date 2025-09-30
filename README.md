@@ -1,2 +1,4 @@
+Akan Name Forge
+
 This project is about a web-based tool that calculates your Akan name based on your birth date and gender.
 Akan names originated from Ghanaian culture, where children were traditionally named after the day of the week on which they were born.
